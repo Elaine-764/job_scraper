@@ -13,6 +13,11 @@ Setup:
     Get a free key at: https://aistudio.google.com/app/apikey
 """
 
+# TODO: 
+# - Batching: 1 call per 3-5 companies
+# - try to fetch internship application deadlines/urls
+# - avoid image prompts
+
 import asyncio
 import base64
 import json
@@ -30,9 +35,8 @@ import io
 # ── Config ────────────────────────────────────────────────────────────────────
 
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "")
-MODEL_NAME     = "gemini-2.5-flash"   # free tier; generous daily quota
-INPUT_CSV      = "companies.csv"      # columns: company, website, hr_website, 2nd_link
-OUTPUT_JSON    = "internships.json"
+MODEL_NAME     = "gemini-2.5-flash-lite"   # free tier; generous daily quota
+INPUT_CSV      = "companies.csv"      # columns: company, website, backup
 SCREENSHOT_DIR = Path("screenshots")
 
 MIN_TEXT_CHARS  = 300    # below this → fall back to screenshot
@@ -163,8 +167,8 @@ def save_screenshot(company: str, url_label: str, data: bytes):
 
 async def scrape_company(page, row: dict) -> dict:
     company    = row.get("company", "Unknown")
-    hr_url     = str(row.get("hr_website") or "").strip()
-    backup_url = str(row.get("2nd_link") or "").strip()
+    hr_url     = str(row.get("website") or "").strip()
+    backup_url = str(row.get("backup") or "").strip()
 
     print(f"\n{'─'*50}")
     print(f"  Company : {company}")
@@ -173,7 +177,7 @@ async def scrape_company(page, row: dict) -> dict:
     results = {"company": company, "source_url": hr_url, "listings": [], "screenshot_path": None, "method": None}
 
     if not hr_url or len(hr_url.replace(' ', '')) == 0:
-        print("  [skip] no hr_website provided")
+        print("  [skip] no website provided")
         return results
 
     urls_to_try = [u for u in [hr_url, backup_url] if u]
