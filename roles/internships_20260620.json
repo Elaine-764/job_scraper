@@ -1,0 +1,1821 @@
+[
+  {
+    "company": "Point 72",
+    "source_url": "",
+    "listings": []
+  },
+  {
+    "company": "Walleye Capital",
+    "source_url": "",
+    "listings": []
+  },
+  {
+    "company": "Jump Trading",
+    "source_url": "",
+    "listings": []
+  },
+  {
+    "company": "Optiver",
+    "source_url": "",
+    "listings": []
+  },
+  {
+    "company": "RBC Capital Markets",
+    "source_url": "",
+    "listings": []
+  },
+  {
+    "company": "TD Securities",
+    "source_url": "",
+    "listings": []
+  },
+  {
+    "company": "BMO",
+    "source_url": "",
+    "listings": []
+  },
+  {
+    "company": "Scotiabank",
+    "source_url": "",
+    "listings": []
+  },
+  {
+    "company": "CPP Investment",
+    "source_url": "",
+    "listings": []
+  },
+  {
+    "company": "OMERS",
+    "source_url": "",
+    "listings": []
+  },
+  {
+    "company": "OTPP",
+    "source_url": "",
+    "listings": []
+  },
+  {
+    "company": "Google",
+    "source_url": "",
+    "listings": [
+      {
+        "title": "Student Researcher, BS/MS, Winter/Summer 2026",
+        "location": "Mountain View, CA, USA; Ann Arbor, MI, USA; +17 more",
+        "deadline": null,
+        "url": "https://www.google.com/about/careers/applications/jobs/results?category=DATA_CENTER_OPERATIONS&category=DEVELOPER_RELATIONS&category=HARDWARE_ENGINEERING&category=INFORMATION_TECHNOLOGY&category=MANUFACTURING_SUPPLY_CHAIN&category=NETWORK_ENGINEERING&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_INFRASTRUCTURE_ENGINEERING&category=TECHNICAL_SOLUTIONS&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&jex=ENTRY_LEVEL&target_level=INTERN_AND_APPRENTICE",
+        "team": "Google"
+      },
+      {
+        "title": "Student Researcher, PhD, Winter/Summer 2026",
+        "location": "Waterloo, ON, Canada; Montreal, QC, Canada; +1 more",
+        "deadline": null,
+        "url": "https://www.google.com/about/careers/applications/jobs/results?category=DATA_CENTER_OPERATIONS&category=DEVELOPER_RELATIONS&category=HARDWARE_ENGINEERING&category=INFORMATION_TECHNOLOGY&category=MANUFACTURING_SUPPLY_CHAIN&category=NETWORK_ENGINEERING&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_INFRASTRUCTURE_ENGINEERING&category=TECHNICAL_SOLUTIONS&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&jex=ENTRY_LEVEL&target_level=INTERN_AND_APPRENTICE",
+        "team": "Google"
+      },
+      {
+        "title": "Student Researcher, 2026",
+        "location": "Bengaluru, Karnataka, India",
+        "deadline": null,
+        "url": "https://www.google.com/about/careers/applications/jobs/results?category=DATA_CENTER_OPERATIONS&category=DEVELOPER_RELATIONS&category=HARDWARE_ENGINEERING&category=INFORMATION_TECHNOLOGY&category=MANUFACTURING_SUPPLY_CHAIN&category=NETWORK_ENGINEERING&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_INFRASTRUCTURE_ENGINEERING&category=TECHNICAL_SOLUTIONS&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&jex=ENTRY_LEVEL&target_level=INTERN_AND_APPRENTICE",
+        "team": "Google"
+      },
+      {
+        "title": "Software Engineering Intern, Summer 2027",
+        "location": "Bengaluru, Kar",
+        "deadline": null,
+        "url": "https://www.google.com/about/careers/applications/jobs/results?category=DATA_CENTER_OPERATIONS&category=DEVELOPER_RELATIONS&category=HARDWARE_ENGINEERING&category=INFORMATION_TECHNOLOGY&category=MANUFACTURING_SUPPLY_CHAIN&category=NETWORK_ENGINEERING&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_INFRASTRUCTURE_ENGINEERING&category=TECHNICAL_SOLUTIONS&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&jex=ENTRY_LEVEL&target_level=INTERN_AND_APPRENTICE",
+        "team": "Google"
+      }
+    ]
+  },
+  {
+    "company": "Amazon/AWS",
+    "source_url": "",
+    "listings": [
+      {
+        "title": "AWS Commercial Sales Internship, EMEA CSC",
+        "location": null,
+        "deadline": null,
+        "url": "https://www.amazon.jobs/jobs/10451637",
+        "team": "Amazon Web Services"
+      },
+      {
+        "title": "Demand Generation Rep Intern - Vietnam Market",
+        "location": null,
+        "deadline": null,
+        "url": "https://www.amazon.jobs/jobs/10444660",
+        "team": "Amazon Web Services"
+      },
+      {
+        "title": "Demand Generation Rep Intern - Indonesian Market",
+        "location": null,
+        "deadline": null,
+        "url": "https://www.amazon.jobs/jobs/10444661",
+        "team": "Amazon Web Services"
+      },
+      {
+        "title": "Demand Generation Rep Intern",
+        "location": null,
+        "deadline": null,
+        "url": "https://www.amazon.jobs/jobs/10380900",
+        "team": "Amazon Web Services"
+      },
+      {
+        "title": "Demand Generation Rep Intern - Philippines market",
+        "location": null,
+        "deadline": null,
+        "url": "https://www.amazon.jobs/jobs/3125227",
+        "team": "Amazon Web Services"
+      },
+      {
+        "title": "Demand Generation Rep Intern - Indonesian Market",
+        "location": null,
+        "deadline": null,
+        "url": "https://www.amazon.jobs/jobs/3125228",
+        "team": "Amazon Web Services"
+      },
+      {
+        "title": "Demand Generation Rep Intern - Vietnam Market",
+        "location": null,
+        "deadline": null,
+        "url": "https://www.amazon.jobs/jobs/3125230",
+        "team": "Amazon Web Services"
+      },
+      {
+        "title": "Business Development Intern, AWS",
+        "location": null,
+        "deadline": null,
+        "url": "https://www.amazon.jobs/jobs/3190062",
+        "team": "Amazon Web Services"
+      },
+      {
+        "title": "Business Development Intern, AWS",
+        "location": null,
+        "deadline": null,
+        "url": "https://www.amazon.jobs/jobs/3164274",
+        "team": "Amazon Web Services"
+      },
+      {
+        "title": "Professional Services 인턴, A2C",
+        "location": null,
+        "deadline": null,
+        "url": "https://www.amazon.jobs/jobs/3071530",
+        "team": "Amazon Web Services"
+      }
+    ]
+  },
+  {
+    "company": "Microsoft",
+    "source_url": "",
+    "listings": [
+      {
+        "title": "Research Intern - Office of the Chief Scientific Officer",
+        "location": "United States, California, Mountain View",
+        "deadline": null,
+        "url": null,
+        "team": "Office of the Chief Scientific Officer"
+      },
+      {
+        "title": "Research Intern - STAC, NYC (Sociotechnical Alignment Center)",
+        "location": "United States, New York, New York",
+        "deadline": null,
+        "url": null,
+        "team": "STAC (Sociotechnical Alignment Center)"
+      },
+      {
+        "title": "Critical Environment Technician Intern",
+        "location": "Ireland, Dublin, Dublin",
+        "deadline": null,
+        "url": null,
+        "team": "Critical Environment"
+      },
+      {
+        "title": "Research Intern - Reliability of Cloud and AI Systems",
+        "location": "United States, Washington, Redmond",
+        "deadline": null,
+        "url": null,
+        "team": "Cloud and AI Systems"
+      },
+      {
+        "title": "Research Intern - Foundations of GenAI",
+        "location": "United States, New York, New York",
+        "deadline": null,
+        "url": null,
+        "team": "Foundations of GenAI"
+      },
+      {
+        "title": "Research Intern - MSR Inclusive Futures Team",
+        "location": "United States, Washington, Redmond",
+        "deadline": null,
+        "url": null,
+        "team": "MSR Inclusive Futures Team"
+      },
+      {
+        "title": "Research Intern - Applied Sciences Group",
+        "location": "United States, Washington, Redmond",
+        "deadline": null,
+        "url": null,
+        "team": "Applied Sciences Group"
+      },
+      {
+        "title": "Research Intern - Computational Social Science",
+        "location": "United States, New York, New York",
+        "deadline": null,
+        "url": null,
+        "team": "Computational Social Science"
+      },
+      {
+        "title": "Research Intern - Agentic Programming",
+        "location": "United States, Washington, Redmond",
+        "deadline": null,
+        "url": null,
+        "team": "Agentic Programming"
+      },
+      {
+        "title": "Research Intern - Artificial Intelligence",
+        "location": "Canada, British Columbia, Vancouver",
+        "deadline": null,
+        "url": null,
+        "team": "Artificial Intelligence"
+      },
+      {
+        "title": "Research Intern - Data Center and AI Networking",
+        "location": "United States, Washington, Redmond",
+        "deadline": null,
+        "url": null,
+        "team": "Data Center and AI Networking"
+      }
+    ]
+  },
+  {
+    "company": "Meta",
+    "source_url": "",
+    "listings": [
+      {
+        "title": "Data Engineer, Product Analytics (University Grad)",
+        "location": "Bellevue, WA +2 locations",
+        "deadline": null,
+        "url": "https://www.metacareers.com/profile/job_details/1468691051611430/",
+        "team": "University Grad - Business"
+      },
+      {
+        "title": "Research Scientist Intern, State Estimation for Dexterous Manipulation (PhD)",
+        "location": "Redmond, WA",
+        "deadline": null,
+        "url": "https://www.metacareers.com/profile/job_details/2774289902955470/",
+        "team": "Internship - PhD"
+      },
+      {
+        "title": "Postdoctoral Researcher, Fundamental AI Research (PhD)",
+        "location": "Menlo Park, CA",
+        "deadline": null,
+        "url": "https://www.metacareers.com/profile/job_details/1273144248096238/",
+        "team": "University Grad - PhD & Postdoc"
+      }
+    ]
+  },
+  {
+    "company": "Apple",
+    "source_url": "",
+    "listings": [
+      {
+        "title": "Tokyo Summer Career Forum 2026 : Internship Opportunities",
+        "location": "Minato",
+        "deadline": "Jun 18, 2026",
+        "url": "https://jobs.apple.com/en-us/details/200668359-6482/tokyo-summer-career-forum-2026-internship-opportunities?team=STDNT",
+        "team": "Students"
+      },
+      {
+        "title": "Engineering Project Manager Intern-Shanghai/ Shenzhen",
+        "location": "Shanghai",
+        "deadline": "Jun 11, 2026",
+        "url": "https://jobs.apple.com/en-us/details/200494847-3715/engineering-project-manager-intern-shanghai-shenzhen?team=STDNT",
+        "team": "Students"
+      },
+      {
+        "title": "Engineering Project Manager Intern-Shanghai/ Shenzhen",
+        "location": "Shenzhen",
+        "deadline": "Jun 11, 2026",
+        "url": "https://jobs.apple.com/en-us/details/200494847-3435/engineering-project-manager-intern-shanghai-shenzhen?team=STDNT",
+        "team": "Students"
+      },
+      {
+        "title": "Machine Learning and Artificial Intelligence Masters Internships",
+        "location": "Various Locations within United States",
+        "deadline": "May 22, 2026",
+        "url": "https://jobs.apple.com/en-us/details/200664221-3810/machine-learning-and-artificial-intelligence-masters-internships?team=STDNT",
+        "team": "Students"
+      },
+      {
+        "title": "Machine Learning and Artificial Intelligence PhD Internships",
+        "location": "Various Locations within United States",
+        "deadline": "May 22, 2026",
+        "url": "https://jobs.apple.com/en-us/details/200664223-3810/machine-learning-and-artificial-intelligence-phd-internships?team=STDNT",
+        "team": "Students"
+      },
+      {
+        "title": "Business, Marketing & Creative Masters Internships",
+        "location": "Various Locations within United States",
+        "deadline": "May 22, 2026",
+        "url": "https://jobs.apple.com/en-us/details/200664247-3810/business-marketing-creative-masters-internships?team=STDNT",
+        "team": "Students"
+      },
+      {
+        "title": "Business, Marketing & Creative Undergrad Internships",
+        "location": "Various Locations within United States",
+        "deadline": "May 22, 2026",
+        "url": "https://jobs.apple.com/en-us/details/200664241-3810/business-marketing-creative-undergrad-internships?team=STDNT",
+        "team": "Students"
+      },
+      {
+        "title": "Legal Internships",
+        "location": "Various Locations within United States",
+        "deadline": "May 22, 2026",
+        "url": "https://jobs.apple.com/en-us/details/200664232-3810/legal-internships?team=STDNT",
+        "team": "Students"
+      },
+      {
+        "title": "Machine Learning and Artificial Intelligence Undergrad Internships",
+        "location": "Various Locations within United States",
+        "deadline": "May 21, 2026",
+        "url": "https://jobs.apple.com/en-us/details/200664780-3810/machine-learning-and-artificial-intelligence-undergrad-internships?team=STDNT",
+        "team": "Students"
+      },
+      {
+        "title": "Hardware PhD Internships",
+        "location": "Various Locations within United States",
+        "deadline": "May 21, 2026",
+        "url": "https://jobs.apple.com/en-us/details/200664421-3810/hardware-phd-internships?team=STDNT",
+        "team": "Students"
+      },
+      {
+        "title": "Hardware Masters Engineering Internships",
+        "location": "Various Locations within United States",
+        "deadline": "May 21, 2026",
+        "url": "https://jobs.apple.com/en-us/details/200664419-3810/hardware-masters-engineering-internships?team=STDNT",
+        "team": "Students"
+      },
+      {
+        "title": "Hardware Undergrad Engineering Internships",
+        "location": "Various Locations within United States",
+        "deadline": "May 21, 2026",
+        "url": "https://jobs.apple.com/en-us/details/200663981-3810/hardware-undergrad-engineering-internships?team=STDNT",
+        "team": "Students"
+      },
+      {
+        "title": "Hardware Technologies PhD Internships",
+        "location": "Various Locations within United States",
+        "deadline": "May 21, 2026",
+        "url": "https://jobs.apple.com/en-us/details/200664414-3810/hardware-technologies-phd-internships?team=STDNT",
+        "team": "Students"
+      },
+      {
+        "title": "Hardware Technologies Masters Engineering Internships",
+        "location": "Various Locations within United States",
+        "deadline": "May 21, 2026",
+        "url": "https://jobs.apple.com/en-us/details/200664383-3810/hardware-technologies-masters-engineering-internships?team=STDNT",
+        "team": "Students"
+      },
+      {
+        "title": "Hardware Technologies Undergrad Engineering Internships",
+        "location": "Various Locations within United States",
+        "deadline": "May 21, 2026",
+        "url": "https://jobs.apple.com/en-us/details/200663968-3810/hardware-technologies-undergrad-engineering-internships?team=STDNT",
+        "team": "Students"
+      },
+      {
+        "title": "Engineering Program Management Undergrad Internships",
+        "location": "Various Locations within United States",
+        "deadline": "May 21, 2026",
+        "url": "https://jobs.apple.com/en-us/details/200664330-3810/engineering-program-management-undergrad-internships?team=STDNT",
+        "team": "Students"
+      },
+      {
+        "title": "Engineering Program Management Masters Internships",
+        "location": "Various Locations within United States",
+        "deadline": "May 21, 2026",
+        "url": "https://jobs.apple.com/en-us/details/200664336-3810/engineering-program-management-masters-internships?team=STDNT",
+        "team": "Students"
+      },
+      {
+        "title": "Software PhD Internships",
+        "location": "Various Locations within United States",
+        "deadline": "May 21, 2026",
+        "url": "https://jobs.apple.com/en-us/details/200664323-3810/software-phd-internships?team=STDNT",
+        "team": "Students"
+      },
+      {
+        "title": "Software Engineering Masters Internships",
+        "location": "Various Locations within United States",
+        "deadline": "May 21, 2026",
+        "url": "https://jobs.apple.com/en-us/details/200664320-3810/software-engineering-masters-internships?team=STDNT",
+        "team": "Students"
+      },
+      {
+        "title": "Software Undergrad Engineering Internships",
+        "location": "Various Locations within United States",
+        "deadline": "May 21, 2026",
+        "url": "https://jobs.apple.com/en-us/details/200664785-3810/software-undergrad-engineering-internships?team=STDNT",
+        "team": "Students"
+      }
+    ]
+  },
+  {
+    "company": "NVIDIA",
+    "source_url": "",
+    "listings": [
+      {
+        "title": "Solution Architecture Intern, AI Infra - 2026",
+        "location": "China, Beijing + 1 more",
+        "deadline": null,
+        "url": "https://jobs.nvidia.com/careers/job/893395633847",
+        "team": "AI Infra"
+      },
+      {
+        "title": "Software Quality Assurance Engineer - 2026 New College Grad",
+        "location": "US, CA, Santa Clara",
+        "deadline": null,
+        "url": "https://jobs.nvidia.com/careers/job/893395644498",
+        "team": "Workstation and Virtualization"
+      },
+      {
+        "title": "AI Software Engineer, Kernel Libraries - New College Grad 2026",
+        "location": "US, CA, Santa Clara",
+        "deadline": null,
+        "url": "https://jobs.nvidia.com/careers/job/893395185882",
+        "team": "Kernel Libraries"
+      },
+      {
+        "title": "High-Performance LLM Training Engineer - New College Grad 2026",
+        "location": "US, CA, Santa Clara",
+        "deadline": null,
+        "url": "https://jobs.nvidia.com/careers/job/893395460878",
+        "team": null
+      },
+      {
+        "title": "Research Scientist, Deep Learning and Computer Vision - New College Graduate",
+        "location": "Taiwan, Taipei",
+        "deadline": null,
+        "url": "https://jobs.nvidia.com/careers/job/893395293387",
+        "team": "Deep Learning and Computer Vision"
+      },
+      {
+        "title": "Circuit Design Engineer - New College Grad 2026",
+        "location": "US, CA, Santa Clara",
+        "deadline": null,
+        "url": "https://jobs.nvidia.com/careers/job/893395488559",
+        "team": "Circuit Design"
+      },
+      {
+        "title": "Research Scientist, Efficient Deep Learning - New College Grad 2026",
+        "location": "US, CA, Santa Clara",
+        "deadline": null,
+        "url": "https://jobs.nvidia.com/careers/job/893395558308",
+        "team": "Efficient Deep Learning"
+      },
+      {
+        "title": "Physical Design Backend Engineer",
+        "location": "Israel, Yokneam",
+        "deadline": null,
+        "url": "https://jobs.nvidia.com/careers/job/893394437052",
+        "team": "Physical Design Backend"
+      },
+      {
+        "title": "ASIC Verification Engineer - New College Grad 2026",
+        "location": "US, TX, Austin + 1 more",
+        "deadline": null,
+        "url": "https://jobs.nvidia.com/careers/job/893393262025",
+        "team": "ASIC Verification"
+      },
+      {
+        "title": "GPU Architect - New College Grad 2026",
+        "location": "US, CA, Santa Clara",
+        "deadline": null,
+        "url": "https://jobs.nvidia.com/careers/job/893395507227",
+        "team": "GPU Architect"
+      },
+      {
+        "title": "Systems Software Engineer - New College Grad 2026",
+        "location": "US, OR, Hillsboro",
+        "deadline": null,
+        "url": "https://jobs.nvidia.com/careers/job/893395087798",
+        "team": "Systems Software"
+      }
+    ]
+  },
+  {
+    "company": "AMD",
+    "source_url": "",
+    "listings": [
+      {
+        "title": "Fall 2026 Short Term Technical Marketing - Performance Analysis Coop",
+        "location": "CA,ON,Markham-1CV",
+        "deadline": null,
+        "url": "https://careers.amd.com/students/jobs/84637?lang=en-us",
+        "team": "Technical Marketing - Performance Analysis"
+      },
+      {
+        "title": "Short Term 2026 Firmware Engineering Intern/Co-Op",
+        "location": "CA,ON,Markham-1CV",
+        "deadline": null,
+        "url": "https://careers.amd.com/students/jobs/86067?lang=en-us",
+        "team": "Firmware Engineering"
+      },
+      {
+        "title": "Short Term 2026 Software Engineering Intern/Co-Op",
+        "location": "CA,ON,Markham-1CV",
+        "deadline": null,
+        "url": "https://careers.amd.com/students/jobs/86069?lang=en-us",
+        "team": "Software Engineering"
+      },
+      {
+        "title": "Fall 2026 Short Term ROCm Libraries Technical Program Management Intern/ Co-Op",
+        "location": "CA,AB,Calgary",
+        "deadline": null,
+        "url": "https://careers.amd.com/students/jobs/86870?lang=en-us",
+        "team": "ROCm Libraries Technical Program Management"
+      },
+      {
+        "title": "Mechanical and Thermal Analysis of Advanced Packaged Devices Intern",
+        "location": "SG,Singapore-Design Ctr",
+        "deadline": null,
+        "url": "https://careers.amd.com/students/jobs/85660?lang=en-us",
+        "team": "Mechanical and Thermal Analysis of Advanced Packaged Devices"
+      }
+    ]
+  },
+  {
+    "company": "Intel",
+    "source_url": "",
+    "listings": [
+      {
+        "title": "SoC Power Thermal Performance Validation Engineer Intern",
+        "location": "Costa Rica, San Jose",
+        "deadline": null,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Costa-Rica-San-Jose/SoC-Power-Thermal-Performance-Validation-Engineer-Intern_JR0284891?workerSubType=dc8bf79476611087dfde99931439ae75",
+        "team": null
+      },
+      {
+        "title": "Middleware Software Engineering Intern",
+        "location": "Poland, Gdansk",
+        "deadline": null,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/Middleware-Software-Engineering-Intern_JR0284874?workerSubType=dc8bf79476611087dfde99931439ae75",
+        "team": null
+      },
+      {
+        "title": "AI Software Engineering Intern",
+        "location": "Poland, Gdansk",
+        "deadline": null,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/AI-Software-Engineering-Intern_JR0284012?workerSubType=dc8bf79476611087dfde99931439ae75",
+        "team": null
+      },
+      {
+        "title": "Student Worker – Software Development",
+        "location": "Costa Rica, San Jose",
+        "deadline": null,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Costa-Rica-San-Jose/Student-Worker---Software-Development_JR0284743?workerSubType=dc8bf79476611087dfde99931439ae75",
+        "team": "Software Development"
+      },
+      {
+        "title": "Silicon Architecture Graduate Intern",
+        "location": "4 Locations",
+        "deadline": null,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/Silicon-Architecture-Graduate-Intern_JR0283607?workerSubType=dc8bf79476611087dfde99931439ae75",
+        "team": "Silicon Architecture"
+      },
+      {
+        "title": "Pre SIlicon Engineering Intern",
+        "location": "Costa Rica, San Jose",
+        "deadline": null,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Costa-Rica-San-Jose/Pre-SIlicon-Engineering--Intern_JR0284115?workerSubType=dc8bf79476611087dfde99931439ae75",
+        "team": "Pre Silicon Engineering"
+      },
+      {
+        "title": "Bluetooth Phy System Student",
+        "location": "Israel, Petah-Tikva",
+        "deadline": null,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Israel-Petah-Tikva/Bluetooth-Phy-System-Student_JR0284713?workerSubType=dc8bf79476611087dfde99931439ae75",
+        "team": "Bluetooth Phy System"
+      },
+      {
+        "title": "Intel MDC Elite Internship Program 2026",
+        "location": "2 Locations",
+        "deadline": null,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Malaysia-Penang/MoHE-Intel-MDC-Elite-Internship-Program-2026_JR0283038?workerSubType=dc8bf79476611087dfde99931439ae75",
+        "team": "MDC Elite Internship Program"
+      },
+      {
+        "title": "AI Software Engineering Intern",
+        "location": "US, Arizona, Phoenix",
+        "deadline": null,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/AI-Software-Engineering-Intern_JR0282641?workerSubType=dc8bf79476611087dfde99931439ae75",
+        "team": null
+      },
+      {
+        "title": "Post Silicon Validation Student",
+        "location": "Israel, Haifa",
+        "deadline": null,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Israel-Haifa/Post-Silicon-Validation-Student_JR0282776?workerSubType=dc8bf79476611087dfde99931439ae75",
+        "team": "Post Silicon Validation"
+      },
+      {
+        "title": "AI Software Validation Intern",
+        "location": "Poland, Gdansk",
+        "deadline": null,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/AI-Software-Validation-Intern_JR0284418?workerSubType=dc8bf79476611087dfde99931439ae75",
+        "team": null
+      },
+      {
+        "title": "Working Student - HW/SW Customer Engineer (m/f/d)",
+        "location": "Germany, Munich",
+        "deadline": null,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/Working-Student---HW-SW-Customer-Engineer--m-f-d-_JR0283841?workerSubType=dc8bf79476611087dfde99931439ae75",
+        "team": "HW/SW Customer Engineer"
+      },
+      {
+        "title": "Construction Engineering Intern",
+        "location": "2 Locations",
+        "deadline": null,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-New-Mexico-Albuquerque/Construction-Engineering-Intern_JR0284579-1?workerSubType=dc8bf79476611087dfde99931439ae75",
+        "team": "Construction Engineering"
+      },
+      {
+        "title": "PM Validation - student position",
+        "location": "Israel, Petah-Tikva",
+        "deadline": null,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Israel-Petah-Tikva/PM-Validation---student-position_JR0280035?workerSubType=dc8bf79476611087dfde99931439ae75",
+        "team": "PM Validation"
+      },
+      {
+        "title": "Formal Verification Student",
+        "location": "Israel, Haifa",
+        "deadline": null,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Israel-Haifa/Formal-Verification-Student_JR0280609-1?workerSubType=dc8bf79476611087dfde99931439ae75",
+        "team": "Formal Verification"
+      },
+      {
+        "title": "Partner Marketing Support Intern",
+        "location": "Virtual Brazil",
+        "deadline": null,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Virtual-Brazil/Partner-Marketing-Support-Intern_JR0284370?workerSubType=dc8bf79476611087dfde99931439ae75",
+        "team": "Partner Marketing Support"
+      },
+      {
+        "title": "Silicon Performance Validation and Characterization Intern",
+        "location": "US, Arizona, Phoenix",
+        "deadline": null,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Silicon-Performance-Validation-and-Characterization-Intern_JR0284310?workerSubType=dc8bf79476611087dfde99931439ae75",
+        "team": "Silicon Performance Validation and Characterization"
+      },
+      {
+        "title": "Module Engineering Undergraduate Intern",
+        "location": "Malaysia, Kulim",
+        "deadline": null,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Malaysia-Kulim/Module-Engineering-Undergraduate-Intern_JR0283938?workerSubType=dc8bf79476611087dfde99931439ae75",
+        "team": "Module Engineering"
+      },
+      {
+        "title": "Pre-Si Systems Intern",
+        "location": "Mexico, Guadalajara",
+        "deadline": null,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Mexico-Guadalajara/Pre-Si-Systems-Intern_JR0283302?workerSubType=dc8bf79476611087dfde99931439ae75",
+        "team": "Pre-Si Systems"
+      },
+      {
+        "title": "SoC Functional Validation Intern",
+        "location": "Mexico, Guadalajara",
+        "deadline": null,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Mexico-Guadalajara/SoC-Functional-Validation-Intern_JR0283315?workerSubType=dc8bf79476611087dfde99931439ae75",
+        "team": "SoC Functional Validation"
+      }
+    ]
+  },
+  {
+    "company": "Qualcomm",
+    "source_url": "",
+    "listings": [
+      {
+        "title": "FY27 Intern - Digital Design Intern - Tirat Carmel",
+        "location": "Haifa, Haifa District, Israel",
+        "deadline": null,
+        "url": "https://careers.qualcomm.com/careers/job/446718946150?domain=qualcomm.com",
+        "team": "Digital Design"
+      },
+      {
+        "title": "Interim HR Intern",
+        "location": "Hyderabad, Telangana, India",
+        "deadline": null,
+        "url": "https://careers.qualcomm.com/careers/job/446718512802?domain=qualcomm.com",
+        "team": "HR"
+      },
+      {
+        "title": "2026 Intern-Robotics SW Engineer",
+        "location": "Chengdu, Sichuan, China",
+        "deadline": null,
+        "url": "https://careers.qualcomm.com/careers/job/446717251199?domain=qualcomm.com",
+        "team": "Robotics SW"
+      },
+      {
+        "title": "2026 Intern-Embedded SW Engineer(SOC)",
+        "location": "Shanghai, Shanghai, China",
+        "deadline": null,
+        "url": "https://careers.qualcomm.com/careers/job/446717251200?domain=qualcomm.com",
+        "team": "Embedded SW Engineer(SOC)"
+      },
+      {
+        "title": "2026 Intern-Machine Learning/AI Engineer",
+        "location": "Beijing, Beijing, China",
+        "deadline": null,
+        "url": "https://careers.qualcomm.com/careers/job/446717251723?domain=qualcomm.com",
+        "team": "Machine Learning/AI Engineer"
+      },
+      {
+        "title": "2026 Intern-Physical Design Engineer",
+        "location": "Shanghai, Shanghai, China",
+        "deadline": null,
+        "url": "https://careers.qualcomm.com/careers/job/446717251724?domain=qualcomm.com",
+        "team": "Physical Design Engineer"
+      },
+      {
+        "title": "2026 Intern-Modem System Test Engineer",
+        "location": "Beijing, Beijing, China",
+        "deadline": null,
+        "url": "https://careers.qualcomm.com/careers/job/446717251739?domain=qualcomm.com",
+        "team": "Modem System Test Engineer"
+      },
+      {
+        "title": "FY27 Intern - Software Intern (Data Center, Cloud-AI Engineering)",
+        "location": "Cork Cork, Ireland",
+        "deadline": null,
+        "url": "https://careers.qualcomm.com/careers/job/446718947455?domain=qualcomm.com",
+        "team": "Data Center, Cloud-AI Engineering"
+      },
+      {
+        "title": "EDT - FY27 Intern - Engineering Internship 2027 - 6 months",
+        "location": "Cork Cork, Ireland",
+        "deadline": null,
+        "url": "https://careers.qualcomm.com/careers/job/446718699713?domain=qualcomm.com",
+        "team": "Engineering Internship"
+      },
+      {
+        "title": "FY27 Intern - Engineering Internship 2027 - 6 months",
+        "location": "Cork Cork, Ireland",
+        "deadline": null,
+        "url": "https://careers.qualcomm.com/careers/job/446718345493?domain=qualcomm.com",
+        "team": "Engineering Internship"
+      },
+      {
+        "title": "FY27 Intern - Software Engineering Internship 2027 - 6 months",
+        "location": "Cork Cork, Ireland",
+        "deadline": null,
+        "url": "https://careers.qualcomm.com/careers/job/446718630683?domain=qualcomm.com",
+        "team": "Software Engineering Internship"
+      }
+    ]
+  },
+  {
+    "company": "Uber",
+    "source_url": "",
+    "listings": [
+      {
+        "title": "2026 PhD Research Intern, India",
+        "location": "Hyderabad, India",
+        "deadline": null,
+        "url": "https://www.uber.com/careers/list/157463",
+        "team": "Engineering"
+      },
+      {
+        "title": "2026 Account Management Intern, Berlin",
+        "location": "Berlin, Germany",
+        "deadline": null,
+        "url": "https://www.uber.com/careers/list/159798",
+        "team": "Business & Sales"
+      },
+      {
+        "title": "2026 Account Representative Intern, US - Sales",
+        "location": "Chicago, Illinois",
+        "deadline": null,
+        "url": "https://www.uber.com/careers/list/156817",
+        "team": "Business & Sales"
+      },
+      {
+        "title": "Business Development Intern, Warsaw",
+        "location": "Warsaw, Poland",
+        "deadline": null,
+        "url": "https://www.uber.com/careers/list/159602",
+        "team": "Business & Sales"
+      },
+      {
+        "title": "Business Development Intern, Berlin",
+        "location": "Berlin, Germany",
+        "deadline": null,
+        "url": "https://www.uber.com/careers/list/159600",
+        "team": "Business & Sales"
+      },
+      {
+        "title": "Business Development Intern, Paris",
+        "location": "Paris, France",
+        "deadline": null,
+        "url": "https://www.uber.com/careers/list/159595",
+        "team": "Business & Sales"
+      },
+      {
+        "title": "Business Development Intern, Amsterdam",
+        "location": "Amsterdam, Netherlands",
+        "deadline": null,
+        "url": "https://www.uber.com/careers/list/159601",
+        "team": "Business & Sales"
+      },
+      {
+        "title": "2026 PhD Applied Research Project (3 months), Aarhus",
+        "location": "Aarhus, Denmark",
+        "deadline": null,
+        "url": "https://www.uber.com/careers/list/156450",
+        "team": "Engineering"
+      },
+      {
+        "title": "Conversion 2026 PhD Software Engineer II, United States",
+        "location": "Seattle, Washington\nSan Francisco, California",
+        "deadline": null,
+        "url": "https://www.uber.com/careers/list/155186",
+        "team": "Engineering"
+      },
+      {
+        "title": "2026 Account Management Intern, Strasbourg",
+        "location": "Strasbourg, France",
+        "deadline": null,
+        "url": "https://www.uber.com/careers/list/158946",
+        "team": "Business & Sales"
+      }
+    ]
+  },
+  {
+    "company": "Stripe",
+    "source_url": "",
+    "listings": [
+      {
+        "title": "Operations Associate, New Grad (Mexico)",
+        "location": "Mexico City",
+        "deadline": null,
+        "url": "https://stripe.com/jobs/listing/operations-associate-new-grad-mexico/7544547",
+        "team": "Operations"
+      },
+      {
+        "title": "PhD Data Scientist, Intern",
+        "location": null,
+        "deadline": null,
+        "url": "https://stripe.com/jobs/listing/phd-data-scientist-intern/7285974",
+        "team": "University"
+      },
+      {
+        "title": "Privacy Fellow",
+        "location": null,
+        "deadline": null,
+        "url": "https://stripe.com/jobs/listing/privacy-fellow/7834218",
+        "team": "Legal"
+      },
+      {
+        "title": "Software Engineer, Intern",
+        "location": null,
+        "deadline": null,
+        "url": "https://stripe.com/jobs/listing/software-engineer-intern/7532256",
+        "team": "University"
+      },
+      {
+        "title": "Software Engineer, New Grad, Developer & End User Experience Platform",
+        "location": null,
+        "deadline": null,
+        "url": "https://stripe.com/jobs/listing/software-engineer-new-grad-developer-end-user-experience-platform/7991718",
+        "team": "University"
+      },
+      {
+        "title": "Software Engineering, New Grad",
+        "location": null,
+        "deadline": null,
+        "url": "https://stripe.com/jobs/listing/software-engineering-new-grad/7176977",
+        "team": "University"
+      },
+      {
+        "title": "Tech Operations Associate, New Grad (Mexico)",
+        "location": "Mexico City",
+        "deadline": null,
+        "url": "https://stripe.com/jobs/listing/tech-operations-associate-new-grad-mexico/7718947",
+        "team": "Operations"
+      }
+    ]
+  },
+  {
+    "company": "Akuna Capital",
+    "source_url": "",
+    "listings": [
+      {
+        "title": "Akuna Capital’s 2026 Virtual Quant Trading Challenge",
+        "location": "VIRTUAL",
+        "deadline": null,
+        "url": "https://akunacapital.com/careers/job/7993921/akuna-capitals-2026-virtual-quant-trading-challenge/?gh_jid=7993921",
+        "team": null
+      }
+    ]
+  },
+  {
+    "company": "Ansatz Capital",
+    "source_url": "",
+    "listings": [
+      {
+        "title": "Internship (No intern program at this time)",
+        "location": "NEW YORK",
+        "deadline": null,
+        "url": "https://jobs.lever.co/ansatzcapital/555c0f1a-ec57-49ff-a7df-944da3ee69e7",
+        "team": "R&D"
+      }
+    ]
+  },
+  {
+    "company": "AQR",
+    "source_url": "",
+    "listings": []
+  },
+  {
+    "company": "Aquatic",
+    "source_url": "",
+    "listings": [
+      {
+        "title": "Quantitative Researcher, Intern (Summer 2027)",
+        "location": "Chicago; London",
+        "deadline": null,
+        "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489186002",
+        "team": "Research"
+      },
+      {
+        "title": "Software Engineer, Intern (Summer 2027)",
+        "location": "Chicago",
+        "deadline": null,
+        "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489233002",
+        "team": "Technology"
+      }
+    ]
+  },
+  {
+    "company": "Arrowstreet Capital",
+    "source_url": "",
+    "listings": [
+      {
+        "title": "Quantitative Developer",
+        "location": "Boston",
+        "deadline": null,
+        "url": "https://arrowstreetcapital.wd5.myworkdayjobs.com/en-US/Campus_Careers/job/Boston/Quantitative-Developer_R1433",
+        "team": null
+      },
+      {
+        "title": "Quantitative Researcher",
+        "location": "Boston",
+        "deadline": null,
+        "url": "https://arrowstreetcapital.wd5.myworkdayjobs.com/en-US/Campus_Careers/job/Boston/Quantitative-Researcher_R1066-5",
+        "team": null
+      },
+      {
+        "title": "Quantitative Developer",
+        "location": "Boston",
+        "deadline": null,
+        "url": "https://arrowstreetcapital.wd5.myworkdayjobs.com/en-US/Campus_Careers/job/Boston/Quantitative-Developer_R1383",
+        "team": null
+      }
+    ]
+  },
+  {
+    "company": "Belvedere Trading",
+    "source_url": "",
+    "listings": []
+  },
+  {
+    "company": "Blackedge Capital",
+    "source_url": "",
+    "listings": [
+      {
+        "title": "General Interest - Campus",
+        "location": "Chicago",
+        "deadline": null,
+        "url": "https://job-boards.greenhouse.io/blackedgecapital/jobs/4705571005",
+        "team": null
+      }
+    ]
+  },
+  {
+    "company": "Bridgewater",
+    "source_url": "",
+    "listings": [
+      {
+        "title": "2027 Investment Associate Intern",
+        "location": "New York City",
+        "deadline": null,
+        "url": "https://job-boards.greenhouse.io/bridgewater89/jobs/8395041002",
+        "team": null
+      },
+      {
+        "title": "Equity Quantitative Research Associate",
+        "location": "New York City & Singapore",
+        "deadline": null,
+        "url": "https://job-boards.greenhouse.io/bridgewater89/jobs/8406845002",
+        "team": "Alpha Engine"
+      },
+      {
+        "title": "Research Associate, Quantitative Developer",
+        "location": "Singapore",
+        "deadline": null,
+        "url": "https://job-boards.greenhouse.io/bridgewater89/jobs/8419108002",
+        "team": "Alpha Engine"
+      },
+      {
+        "title": "Research Associate, Data Engineer",
+        "location": "Singapore",
+        "deadline": null,
+        "url": "https://job-boards.greenhouse.io/bridgewater89/jobs/8419121002",
+        "team": "Alpha Engine"
+      },
+      {
+        "title": "Campus Talent Associate",
+        "location": "Westport, CT & New York City",
+        "deadline": null,
+        "url": "https://job-boards.greenhouse.io/bridgewater89/jobs/8334259002",
+        "team": "Human Resources"
+      }
+    ]
+  },
+  {
+    "company": "Campbell and Company",
+    "source_url": "",
+    "listings": []
+  },
+  {
+    "company": "Chicago Trading Company",
+    "source_url": "",
+    "listings": [
+      {
+        "title": "ASSOCIATE ENGINEER 2026 - IMMEDIATE START",
+        "location": "Campus Chicago",
+        "deadline": null,
+        "url": "https://www.chicagotrading.com/careers.php#roles",
+        "team": null
+      }
+    ]
+  },
+  {
+    "company": "Citadel Securities",
+    "source_url": "",
+    "listings": [
+      {
+        "title": "Markets & Trading Interns",
+        "location": null,
+        "deadline": null,
+        "url": "https://www.citadelsecurities.com/careers/open-opportunities?experience-filter=internships&selected-job-sections=323,325,324,326&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter",
+        "team": "Markets & Trading"
+      },
+      {
+        "title": "Quantitative Research Interns",
+        "location": null,
+        "deadline": null,
+        "url": "https://www.citadelsecurities.com/careers/open-opportunities?experience-filter=internships&selected-job-sections=323,325,324,326&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter",
+        "team": "Quantitative Research"
+      },
+      {
+        "title": "Engineering Interns",
+        "location": null,
+        "deadline": null,
+        "url": "https://www.citadelsecurities.com/careers/open-opportunities?experience-filter=internships&selected-job-sections=323,325,324,326&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter",
+        "team": "Engineering"
+      }
+    ]
+  },
+  {
+    "company": "Citadel",
+    "source_url": "",
+    "listings": [
+      {
+        "title": "Quantitative Research Analyst – University Graduate (Asia)",
+        "location": "Hong Kong, Singapore",
+        "deadline": null,
+        "url": "https://www.citadel.com/careers/details/quantitative-research-analyst-university-graduate-asia/",
+        "team": "Quantitative Research"
+      },
+      {
+        "title": "Quantitative Researcher – PhD Intern (Europe)",
+        "location": "London, Paris, Zurich",
+        "deadline": null,
+        "url": "https://www.citadel.com/careers/details/quantitative-researcher-phd-intern-europe/",
+        "team": "Quantitative Research"
+      },
+      {
+        "title": "Quantitative Researcher – PhD Intern (Asia)",
+        "location": "Hong Kong, Singapore",
+        "deadline": null,
+        "url": "https://www.citadel.com/careers/details/quantitative-researcher-phd-intern-asia/",
+        "team": "Quantitative Research"
+      },
+      {
+        "title": "Quantitative Researcher – PhD Graduate (Europe)",
+        "location": "Dublin, London, Paris, Zurich",
+        "deadline": null,
+        "url": "https://www.citadel.com/careers/details/quantitative-researcher-phd-graduate-europe/",
+        "team": "Quantitative Research"
+      },
+      {
+        "title": "Quantitative Researcher – PhD Graduate (Asia)",
+        "location": "Hong Kong, Singapore",
+        "deadline": null,
+        "url": "https://www.citadel.com/careers/details/quantitative-researcher-phd-graduate-asia/",
+        "team": "Quantitative Research"
+      },
+      {
+        "title": "Quantitative Researcher – PhD Intern (US)",
+        "location": "Greenwich, Miami, New York",
+        "deadline": null,
+        "url": "https://www.citadel.com/careers/details/quantitative-researcher-phd-intern-us/",
+        "team": "Quantitative Research"
+      },
+      {
+        "title": "Quantitative Research Analyst – University Graduate (Europe)",
+        "location": "Dublin, London, Paris, Zurich",
+        "deadline": null,
+        "url": "https://www.citadel.com/careers/details/quantitative-research-analyst-university-graduate-europe/",
+        "team": "Quantitative Research"
+      },
+      {
+        "title": "Quantitative Research Analyst Intern – BS/MS (Europe)",
+        "location": "London, Paris, Zurich",
+        "deadline": null,
+        "url": "https://www.citadel.com/careers/details/quantitative-research-analyst-intern-bs-ms-europe/",
+        "team": "Quantitative Research"
+      },
+      {
+        "title": "Quantitative Research Analyst Intern – BS/MS (Asia)",
+        "location": "Hong Kong, Singapore",
+        "deadline": null,
+        "url": "https://www.citadel.com/careers/details/quantitative-research-analyst-intern-bs-ms-asia/",
+        "team": "Quantitative Research"
+      },
+      {
+        "title": "Quantitative Research Analyst – University Graduate (US)",
+        "location": "Miami, New York",
+        "deadline": null,
+        "url": "https://www.citadel.com/careers/details/quantitative-research-analyst-university-graduate-us/",
+        "team": "Quantitative Research"
+      }
+    ]
+  },
+  {
+    "company": "Cubist",
+    "source_url": "",
+    "listings": [
+      {
+        "title": "2026 Finance Summer Internship, Warsaw",
+        "location": "Warsaw, PL",
+        "deadline": null,
+        "url": "https://careers.point72.com/CSJobDetail?jobName=2026-finance-summer-internship-warsaw&jobCode=IVS-0014754&location=Warsaw,%20PL&locale=English&retURL=/CSCareerSearch",
+        "team": "Finance & Accounting"
+      },
+      {
+        "title": "2027 Point72 Academy Investment Analyst Summer Internship Program - Japan",
+        "location": "Tokyo",
+        "deadline": null,
+        "url": "https://careers.point72.com/CSJobDetail?jobName=2027-point72-academy-investment-analyst-summer-internship-program-japan&jobCode=CPA-0014710&location=Tokyo&locale=English&retURL=/CSCareerSearch",
+        "team": "Point72 Academy"
+      },
+      {
+        "title": "2027 Point72 Academy Investment Analyst Summer Internship Program - Singapore",
+        "location": "Singapore",
+        "deadline": null,
+        "url": "https://careers.point72.com/CSJobDetail?jobName=2027-point72-academy-investment-analyst-summer-internship-program-singapore&jobCode=CPA-0014709&location=Singapore&locale=English&retURL=/CSCareerSearch",
+        "team": "Point72 Academy"
+      },
+      {
+        "title": "2027 Point72 Academy Investment Analyst Summer Internship Program - Hong Kong",
+        "location": "Hong Kong",
+        "deadline": null,
+        "url": "https://careers.point72.com/CSJobDetail?jobName=2027-point72-academy-investment-analyst-summer-internship-program-hong-kong&jobCode=CPA-0014708&location=Hong%20Kong&locale=English&retURL=/CSCareerSearch",
+        "team": "Point72 Academy"
+      },
+      {
+        "title": "2026 Warsaw Market Intelligence – Platform DevOps Internship",
+        "location": "Warsaw, PL",
+        "deadline": null,
+        "url": "https://careers.point72.com/CSJobDetail?jobName=2026-warsaw-market-intelligence-platform-devops-internship&jobCode=IVS-0014530&location=Warsaw,%20PL&locale=English&retURL=/CSCareerSearch",
+        "team": "Data Engineering"
+      },
+      {
+        "title": "2026 Finance Summer Internship, Warsaw",
+        "location": "Warsaw, PL",
+        "deadline": null,
+        "url": "https://careers.point72.com/CSJobDetail?jobName=2026-finance-summer-internship-warsaw&jobCode=IVS-0014494&location=Warsaw,%20PL&locale=English&retURL=/CSCareerSearch",
+        "team": "Finance & Accounting"
+      },
+      {
+        "title": "2026 Warsaw MI Data – Web Scraping Internship",
+        "location": "Warsaw, PL",
+        "deadline": null,
+        "url": "https://careers.point72.com/CSJobDetail?jobName=2026-warsaw-mi-data-web-scraping-internship&jobCode=IVS-0014477&location=Warsaw,%20PL&locale=English&retURL=/CSCareerSearch",
+        "team": "Data Science & Analytics"
+      },
+      {
+        "title": "2026 PL Technology Internship – Software Engineer",
+        "location": "Warsaw, PL",
+        "deadline": null,
+        "url": "https://careers.point72.com/CSJobDetail?jobName=2026-pl-technology-internship-software-engineer&jobCode=IVS-0014405&location=Warsaw,%20PL&locale=English&retURL=/CSCareerSearch",
+        "team": "Technology & Engineering"
+      },
+      {
+        "title": "Quantitative Research Intern (NLP)",
+        "location": "New York",
+        "deadline": null,
+        "url": "https://careers.point72.com/CSJobDetail?jobName=quantitative-research-intern-nlp-&jobCode=CSS-0013383&location=New%20York&locale=English&retURL=/CSCareerSearch",
+        "team": "Quantitative Research"
+      },
+      {
+        "title": "Quantitative Alpha Researcher Intern",
+        "location": "Hong Kong",
+        "deadline": null,
+        "url": "https://careers.point72.com/CSJobDetail?jobName=quantitative-alpha-researcher-intern&jobCode=CSS-0012603&location=Hong%20Kong&locale=English&retURL=/CSCareerSearch",
+        "team": "Quantitative Research"
+      },
+      {
+        "title": "Quantitative Researcher - Intern",
+        "location": "London | Hong Kong | Tokyo | Paris",
+        "deadline": null,
+        "url": "https://careers.point72.com/CSJobDetail?jobName=quantitative-researcher-intern&jobCode=CSS-0012598&location=London%20|%20Hong%20Kong%20|%20Tokyo%20|%20Paris&locale=English&retURL=/CSCareerSearch",
+        "team": "Quantitative Research"
+      },
+      {
+        "title": "Quantitative Researcher Intern",
+        "location": "New York",
+        "deadline": null,
+        "url": "https://careers.point72.com/CSJobDetail?jobName=quantitative-researcher-intern&jobCode=CSS-0012539&location=New%20York&locale=English&retURL=/CSCareerSearch",
+        "team": "Quantitative Research"
+      },
+      {
+        "title": "Summer 2027 Quantitative Researcher Internship",
+        "location": "New York",
+        "deadline": null,
+        "url": "https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-researcher-internship&jobCode=CSS-0012295&location=New%20York&locale=English&retURL=/CSCareerSearch",
+        "team": "Quantitative Research"
+      },
+      {
+        "title": "Summer 2027 Quantitative Developer Internship",
+        "location": "New York",
+        "deadline": null,
+        "url": "https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-developer-internship&jobCode=CSS-0012293&location=New%20York&locale=English&retURL=/CSCareerSearch",
+        "team": "Quantitative Research"
+      },
+      {
+        "title": "Quantitative Software Developer Intern",
+        "location": "New York | London | Paris",
+        "deadline": null,
+        "url": "https://careers.point72.com/CSJobDetail?jobName=quantitative-software-developer-intern&jobCode=CSS-0011537&location=New%20York%20|%20London%20|%20Paris&locale=English&retURL=/CSCareerSearch",
+        "team": "Quantitative Research"
+      },
+      {
+        "title": "Quantitative Alpha Researcher Intern",
+        "location": "Singapore",
+        "deadline": null,
+        "url": "https://careers.point72.com/CSJobDetail?jobName=quantitative-alpha-researcher-intern&jobCode=CSS-0005569&location=Singapore&locale=English&retURL=/CSCareerSearch",
+        "team": "Quantitative Research"
+      },
+      {
+        "title": "Quantitative Researcher - Intern",
+        "location": "New York | Seattle",
+        "deadline": null,
+        "url": "https://careers.point72.com/CSJobDetail?jobName=quantitative-researcher-intern&jobCode=CSS-0000570&location=New%20York%20|%20Seattle&locale=English&retURL=/CSCareerSearch",
+        "team": "Quantitative Research"
+      },
+      {
+        "title": "Machine Learning Researcher - Intern",
+        "location": "New York",
+        "deadline": null,
+        "url": "https://careers.point72.com/CSJobDetail?jobName=machine-learning-researcher-intern&jobCode=CSS-0000161&location=New%20York&locale=English&retURL=/CSCareerSearch",
+        "team": "Quantitative Research"
+      }
+    ]
+  },
+  {
+    "company": "DE Shaw",
+    "source_url": "",
+    "listings": [
+      {
+        "title": "All internships",
+        "location": null,
+        "deadline": null,
+        "url": "https://www.deshaw.com/careers/internships",
+        "team": null
+      }
+    ]
+  },
+  {
+    "company": "DRW",
+    "source_url": "",
+    "listings": []
+  },
+  {
+    "company": "Five Rings",
+    "source_url": "",
+    "listings": [
+      {
+        "title": "Campus Full Time 2026 - Quantitative Trader - Amsterdam",
+        "location": "Amsterdam",
+        "deadline": null,
+        "url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/4808899008",
+        "team": "Quantitative Trading"
+      },
+      {
+        "title": "Campus Full Time 2026 - Quantitative Trader - London",
+        "location": "London",
+        "deadline": null,
+        "url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/4808892008",
+        "team": "Quantitative Trading"
+      },
+      {
+        "title": "Campus Full Time 2026 - Trading Operations Engineer",
+        "location": "New York City",
+        "deadline": null,
+        "url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/4017982008",
+        "team": "Trading Operations"
+      },
+      {
+        "title": "Campus Full Time - Trading Assistant (NYC)",
+        "location": "New York City",
+        "deadline": null,
+        "url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5047415008",
+        "team": "Trading Operations"
+      },
+      {
+        "title": "Campus Recruiter",
+        "location": "New York City",
+        "deadline": null,
+        "url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5251550008",
+        "team": "Recruiting"
+      }
+    ]
+  },
+  {
+    "company": "Flow Traders",
+    "source_url": "",
+    "listings": [
+      {
+        "title": "Graduate Trader program",
+        "location": null,
+        "deadline": null,
+        "url": null,
+        "team": "Trading"
+      }
+    ]
+  },
+  {
+    "company": "G-Research",
+    "source_url": "",
+    "listings": [
+      {
+        "title": "Summer Research Programme",
+        "location": null,
+        "deadline": null,
+        "url": null,
+        "team": "Quantitative research"
+      },
+      {
+        "title": "Engineering interns",
+        "location": null,
+        "deadline": null,
+        "url": null,
+        "team": "Engineering and technology"
+      },
+      {
+        "title": "placement opportunities within finance, legal, business analytics and human resources",
+        "location": null,
+        "deadline": null,
+        "url": null,
+        "team": "Corporate"
+      }
+    ]
+  },
+  {
+    "company": "Geneva Trading",
+    "source_url": "",
+    "listings": []
+  },
+  {
+    "company": "GSA Capital",
+    "source_url": "",
+    "listings": []
+  },
+  {
+    "company": "HAP Capital",
+    "source_url": "",
+    "listings": []
+  },
+  {
+    "company": "Headlands Tech",
+    "source_url": "",
+    "listings": [
+      {
+        "title": "Software Developer (C++)",
+        "location": "Chicago",
+        "deadline": null,
+        "url": "https://job-boards.greenhouse.io/headlandstechnologiesllc/jobs/4227758009",
+        "team": "trading"
+      }
+    ]
+  },
+  {
+    "company": "Hudson River Trading",
+    "source_url": "",
+    "listings": [
+      {
+        "title": "Algorithm Developer (Quant Researcher) – 2026 PhDs",
+        "location": "New York",
+        "deadline": null,
+        "url": "https://boards.greenhouse.io/hrttalentcommunity/jobs/3530960",
+        "team": "Algorithm Development"
+      }
+    ]
+  },
+  {
+    "company": "IMC Trading",
+    "source_url": "",
+    "listings": [
+      {
+        "title": "GRADUATE TRADING OPERATIONS SPECIALIST",
+        "location": "Chicago",
+        "deadline": null,
+        "url": "https://www.imc.com/us/careers/jobs/4608591101",
+        "team": "Trading"
+      },
+      {
+        "title": "GRADUATE FLOOR TRADER",
+        "location": "Chicago",
+        "deadline": null,
+        "url": "https://www.imc.com/us/careers/jobs/4786701101",
+        "team": "Trading"
+      },
+      {
+        "title": "HARDWARE MACHINE LEARNING PHD RESEARCH INTERNSHIP",
+        "location": "Chicago",
+        "deadline": null,
+        "url": "https://www.imc.com/us/careers/jobs/4829785101",
+        "team": "Technology"
+      }
+    ]
+  },
+  {
+    "company": "Jane Street",
+    "source_url": "",
+    "listings": [
+      {
+        "title": "Software Engineer",
+        "location": "New York",
+        "deadline": null,
+        "url": null,
+        "team": "Technology"
+      },
+      {
+        "title": "Software Engineer",
+        "location": "New York",
+        "deadline": null,
+        "url": null,
+        "team": "Technology"
+      },
+      {
+        "title": "Tools and Compilers Research and Development",
+        "location": "New York",
+        "deadline": null,
+        "url": null,
+        "team": "Technology"
+      },
+      {
+        "title": "Cybersecurity Analyst",
+        "location": "New York",
+        "deadline": null,
+        "url": null,
+        "team": "Cybersecurity"
+      },
+      {
+        "title": "FPGA Engineer",
+        "location": "New York",
+        "deadline": null,
+        "url": null,
+        "team": "Technology"
+      },
+      {
+        "title": "IT Operations Engineer",
+        "location": "New York",
+        "deadline": null,
+        "url": null,
+        "team": "Technology"
+      },
+      {
+        "title": "Linux Engineer",
+        "location": "New York",
+        "deadline": null,
+        "url": null,
+        "team": "Technology"
+      },
+      {
+        "title": "Machine Learning Researcher",
+        "location": "New York",
+        "deadline": null,
+        "url": null,
+        "team": "Trading, Research, and Machine Learning"
+      },
+      {
+        "title": "Mechanical Engineer",
+        "location": "New York",
+        "deadline": null,
+        "url": null,
+        "team": "Technology"
+      },
+      {
+        "title": "Network Engineer",
+        "location": "New York",
+        "deadline": null,
+        "url": null,
+        "team": "Technology"
+      },
+      {
+        "title": "Procurement Specialist",
+        "location": "New York",
+        "deadline": null,
+        "url": null,
+        "team": "Technology"
+      },
+      {
+        "title": "Quantitative Researcher",
+        "location": "New York",
+        "deadline": null,
+        "url": null,
+        "team": "Trading, Research, and Machine Learning"
+      }
+    ]
+  },
+  {
+    "company": "Mako Trading",
+    "source_url": "",
+    "listings": [
+      {
+        "title": "Graduate Software Engineer",
+        "location": "SYDNEY",
+        "deadline": null,
+        "url": "https://www.mako.com/opportunities/job-listing?gh_jid=8530829002",
+        "team": "SOFTWARE ENGINEERING"
+      },
+      {
+        "title": "Graduate Trader",
+        "location": "SYDNEY",
+        "deadline": null,
+        "url": "https://www.mako.com/opportunities/job-listing?gh_jid=8530830002",
+        "team": "TRADING"
+      },
+      {
+        "title": "IT Operations Analyst, Sydney",
+        "location": "SYDNEY",
+        "deadline": null,
+        "url": "https://www.mako.com/opportunities/job-listing?gh_jid=8542421002",
+        "team": "FRONT OFFICE INFRASTRUCTURE"
+      },
+      {
+        "title": "Options Trader - India",
+        "location": "SINGAPORE",
+        "deadline": null,
+        "url": "https://www.mako.com/opportunities/job-listing?gh_jid=8496069002",
+        "team": "TRADING"
+      }
+    ]
+  },
+  {
+    "company": "Marshall Wace",
+    "source_url": "",
+    "listings": [
+      {
+        "title": "Technology Internship Programme",
+        "location": "London, New York, Singapore and Hong Kong",
+        "deadline": null,
+        "url": "https://www.mwam.com/join-us/internships/",
+        "team": "Technology"
+      },
+      {
+        "title": "Quantitative Research Internship Programme",
+        "location": "London",
+        "deadline": null,
+        "url": "https://www.mwam.com/join-us/internships/",
+        "team": "Quantitative Research"
+      }
+    ]
+  },
+  {
+    "company": "Maven Securities",
+    "source_url": "",
+    "listings": []
+  },
+  {
+    "company": "Millenium",
+    "source_url": "",
+    "listings": []
+  },
+  {
+    "company": "Old Mission",
+    "source_url": "",
+    "listings": []
+  },
+  {
+    "company": "PDT Partners",
+    "source_url": "",
+    "listings": []
+  },
+  {
+    "company": "Peak6",
+    "source_url": "",
+    "listings": []
+  },
+  {
+    "company": "Quantic",
+    "source_url": "",
+    "listings": [
+      {
+        "title": "Business Operations Intern (Summer 2027)",
+        "location": "New York, New York",
+        "deadline": null,
+        "url": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4678723006",
+        "team": null
+      },
+      {
+        "title": "Central Equity Quant Research (CEQR) Intern (Summer 2027)",
+        "location": "New York, New York",
+        "deadline": null,
+        "url": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4676069006",
+        "team": "Central Equity Quant Research (CEQR)"
+      },
+      {
+        "title": "Equity Volatility Quant Researcher Intern (Summer 2027)",
+        "location": "Miami, FL",
+        "deadline": null,
+        "url": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4676334006",
+        "team": "Equity Volatility Quant Research"
+      },
+      {
+        "title": "Fundamental Equities Intern (Summer 2027)",
+        "location": "New York, New York",
+        "deadline": null,
+        "url": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4677152006",
+        "team": "Fundamental Equities"
+      },
+      {
+        "title": "Investment Data Science Intern (Summer 2027)",
+        "location": "New York, New York",
+        "deadline": null,
+        "url": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4676587006",
+        "team": "Investment Data Science"
+      },
+      {
+        "title": "Investor Relations Intern (Summer 2027)",
+        "location": "New York, New York",
+        "deadline": null,
+        "url": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4676605006",
+        "team": "Investor Relations"
+      },
+      {
+        "title": "Quantic - PhD Quantitative Researcher Intern (Summer 2027)",
+        "location": "Boston, MA",
+        "deadline": null,
+        "url": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679184006",
+        "team": "Quantic - Quantitative Research"
+      },
+      {
+        "title": "Quantic – Quantitative Developer Intern (Summer 2027)",
+        "location": "Boston, MA",
+        "deadline": null,
+        "url": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679168006",
+        "team": "Quantic - Quantitative Developer"
+      },
+      {
+        "title": "Quantic - Quantitative Researcher Intern (Summer 2027)",
+        "location": "Boston, MA",
+        "deadline": null,
+        "url": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679173006",
+        "team": "Quantic - Quantitative Research"
+      },
+      {
+        "title": "Risk Technology Analyst Intern (Summer 2027)",
+        "location": "New York, New York",
+        "deadline": null,
+        "url": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679224006",
+        "team": "Risk Technology"
+      },
+      {
+        "title": "Summer Engage (Boston) - Summer 2026",
+        "location": "Boston, MA",
+        "deadline": null,
+        "url": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4685011006",
+        "team": null
+      },
+      {
+        "title": "Summer Engage (NYC) - Summer 2026",
+        "location": "New York, New York",
+        "deadline": null,
+        "url": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4676694006",
+        "team": null
+      },
+      {
+        "title": "Technology Intern (Summer 2027)",
+        "location": "New York, New York",
+        "deadline": null,
+        "url": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4681002006",
+        "team": "Technology"
+      },
+      {
+        "title": "Treasury Intern (Summer 2027)",
+        "location": "New York, New York",
+        "deadline": null,
+        "url": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4677037006",
+        "team": "Treasury"
+      },
+      {
+        "title": "Volatility Trading Developer Intern (Summer 2027)",
+        "location": "New York, New York",
+        "deadline": null,
+        "url": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679434006",
+        "team": "Volatility Trading Developer"
+      }
+    ]
+  },
+  {
+    "company": "QuantLab",
+    "source_url": "",
+    "listings": []
+  },
+  {
+    "company": "Radix Trading",
+    "source_url": "",
+    "listings": []
+  },
+  {
+    "company": "Renaissance",
+    "source_url": "",
+    "listings": []
+  },
+  {
+    "company": "Schonfeld",
+    "source_url": "",
+    "listings": []
+  },
+  {
+    "company": "Seven Eight",
+    "source_url": "",
+    "listings": []
+  },
+  {
+    "company": "SIG",
+    "source_url": "",
+    "listings": [
+      {
+        "title": "Marketing + Content Creation Intern: Fall 2026",
+        "location": "Richmond, Virginia",
+        "deadline": null,
+        "url": "https://careers.sig.com/jobs/10942?lang=en-us",
+        "team": "Human Resources, Recruiting + Marketing"
+      }
+    ]
+  },
+  {
+    "company": "Squarepoint",
+    "source_url": "",
+    "listings": [
+      {
+        "title": "Intern Quant Researcher",
+        "location": null,
+        "deadline": null,
+        "url": "https://www.squarepoint-capital.com/open-opportunities?q=intern+quant+researcher&lvl=Internship",
+        "team": "Investment"
+      },
+      {
+        "title": "Intern Software Developer",
+        "location": null,
+        "deadline": null,
+        "url": "https://www.squarepoint-capital.com/open-opportunities?q=intern+software+developer&lvl=Internship",
+        "team": "Technology"
+      },
+      {
+        "title": "Graduate Software Developer",
+        "location": null,
+        "deadline": null,
+        "url": "https://www.squarepoint-capital.com/opportunity-details?id=6040910&q=Graduate%20Software%20Developer&lvl=Early+Careers+Opportunity",
+        "team": "Technology"
+      },
+      {
+        "title": "Graduate Support Specialist",
+        "location": null,
+        "deadline": null,
+        "url": "https://www.squarepoint-capital.com/opportunity-details?id=6100081&q=Graduate%20Support%20Specialist&lvl=Early+Careers+Opportunity",
+        "team": "Technology"
+      }
+    ]
+  },
+  {
+    "company": "TGS",
+    "source_url": "",
+    "listings": []
+  }
+]

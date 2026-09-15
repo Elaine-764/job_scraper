@@ -1,3 +1,7 @@
 screenshots/
 .env
-job_scraper2.py
+job_scraper_v1_old.py
+notes.md
+all_roles*
+combined_roles*
+.DS_Store
